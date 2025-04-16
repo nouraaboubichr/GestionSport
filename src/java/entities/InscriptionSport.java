@@ -38,15 +38,27 @@ public class InscriptionSport {
         this.date = date;
     }
 
-    public ActiviteSportive getActivite() { return activite; }
+    public ActiviteSportive getActivite() { 
+        return activite; 
+    }
 
-    public void setActivite(ActiviteSportive activite) { this.activite = activite; }
+    public void setActivite(ActiviteSportive activite) {
+        this.activite = activite;
+    }
 
-    public User getUser() { return user; }
+    public User getUser() {
+        return user; 
+    }
 
-    public void setUser(User user) { this.user = user; }
+    public void setUser(User user) { 
+        this.user = user;
+    }
 
-    public LocalDate getDate() { return date; }
+    public LocalDate getDate() {
+        return date; 
+    }
 
-    public void setDate(LocalDate date) { this.date = date; }
+    public void setDate(LocalDate date) { 
+        this.date = date; 
+    }
 }
