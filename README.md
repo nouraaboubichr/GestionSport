@@ -86,7 +86,7 @@ La gestion manuelle des inscriptions aux activités sportives pose plusieurs pro
 - **MySQL** – Stockage des entités.
 - **XAMPP** – Pour le serveur MySQL local.
 - **phpMyAdmin** – Pour visualiser et manipuler la base de données.
-- 🔗 **[Clique ici pour voir la vidéo de présentation]([https://drive.google.com/your-lien-de-video](https://drive.google.com/drive/folders/113Kx8xTsnWrsJzjn8a6KLOF4m4p6FG8N))**
+
 
 
 ### 🧩 Entités principales :
@@ -100,3 +100,4 @@ La gestion manuelle des inscriptions aux activités sportives pose plusieurs pro
 | **InscriptionSport** | Activité, utilisateur inscrit, date. |
 
 ---
+- 🔗 **[Clique ici pour voir la vidéo de présentation]([https://drive.google.com/your-lien-de-video](https://drive.google.com/drive/folders/113Kx8xTsnWrsJzjn8a6KLOF4m4p6FG8N))**
