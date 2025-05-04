@@ -50,7 +50,7 @@ La gestion manuelle des inscriptions aux activités sportives pose plusieurs pro
 ![Image](https://github.com/user-attachments/assets/79bfa225-a658-46f3-9343-22862094034f)
 
 ## 🗃️ Modèle Conceptuel de la Base
-![Image](https://github.com/user-attachments/assets/5bdc7a57-a4ef-47d1-b7ce-7b5fdd9ad264)
+![Image](https://github.com/user-attachments/assets/8205683a-f088-4cb6-bb02-06a006aea6ab)
 
 ## ⚙️ Exécution des Tests (console)
 
