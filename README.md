@@ -54,45 +54,26 @@ La gestion manuelle des inscriptions aux activités sportives pose plusieurs pro
 
 ## ⚙️ Exécution des Tests (console)
 
-![Image](https://github.com/user-attachments/assets/f690ab21-e193-4884-94ac-06a23f9df4ea)
-
-![Image](https://github.com/user-attachments/assets/8c79459a-42b3-4bc0-93ff-76d3449dc73d)
-
-![Image](https://github.com/user-attachments/assets/1e3beb9a-29be-4498-a8e5-b943b5ba2e69)
-
-![Image](https://github.com/user-attachments/assets/bb96c310-381e-422c-8203-3a007ade6dd9)
-
-![Image](https://github.com/user-attachments/assets/9129ea2a-f9de-4af9-815f-50de3b2bfff5)
-
-![Image](https://github.com/user-attachments/assets/d54f23de-823a-413e-a77b-8d897e232393)
-
-![Image](https://github.com/user-attachments/assets/86480c12-8258-4410-829f-19e962917225)
-
-![Image](https://github.com/user-attachments/assets/c701cabd-89f5-47b5-9d65-aa52dae497dc)
-
-![Image](https://github.com/user-attachments/assets/3f553a57-8514-4f0e-b319-f4aa3656c980)
-
-![Image](https://github.com/user-attachments/assets/16be620a-15a5-4f7c-a7d6-6f67c7b7f705)
-
-![Image](https://github.com/user-attachments/assets/c543dfdb-d15a-43bd-b92f-3265ad692c70)
-
-![Image](https://github.com/user-attachments/assets/c608ff6d-33be-41aa-9434-9cca645cfc00)
-
-![Image](https://github.com/user-attachments/assets/62bd00cb-1aeb-44a1-b27d-b17933730fec)
-
-![Image](https://github.com/user-attachments/assets/077dd796-3dbd-437a-9040-e19e6da40b8d)
-
-![Image](https://github.com/user-attachments/assets/1c16b261-36e1-4c6b-9195-b36e6d10d2b3)
-
-![Image](https://github.com/user-attachments/assets/c52f7963-1ace-498b-bf0b-ec0ae9db748d)
-
-![Image](https://github.com/user-attachments/assets/7afa8ff0-42b8-4305-a311-24e49d874c12)
-
-![Image](https://github.com/user-attachments/assets/a5c67d29-8bde-46a6-b124-4a08e6440f38)
-
-![Image](https://github.com/user-attachments/assets/baaded15-5296-4670-990d-fd3b33f0a72e)
-
-![Image](https://github.com/user-attachments/assets/dad07545-6f11-4078-bde1-3c7be77fa79c)
+![Image](https://github.com/user-attachments/assets/3b056bf7-6a5d-4698-bbd9-fd5d37588466)
+![Image](https://github.com/user-attachments/assets/6fae4abd-c2e0-4634-9a41-870ed440cdd8)
+![Image](https://github.com/user-attachments/assets/67b4a6c0-901e-47e1-8d03-99222fc03a7e)
+![Image](https://github.com/user-attachments/assets/d3a1facb-eccc-4e61-9852-01049c7b6e90)
+![Image](https://github.com/user-attachments/assets/3b85cb65-8126-4c09-a736-56868f7f9537)
+![Image](https://github.com/user-attachments/assets/d43cba7a-0737-4e6e-a1d5-8438096c28e3)
+![Image](https://github.com/user-attachments/assets/f813b1d4-be81-4970-87a1-9f48733e796e)
+![Image](https://github.com/user-attachments/assets/2f93e098-ba8d-4af1-b258-f120914cba04)
+![Image](https://github.com/user-attachments/assets/93c91680-01ea-4b53-9eb7-d0e0c6252e28)
+![Image](https://github.com/user-attachments/assets/9b55ab53-5fe9-48bc-89b4-29ffffd9a554)
+![Image](https://github.com/user-attachments/assets/2c399cdb-eef1-4bb3-9fc2-0cd34884f4d3)
+![Image](https://github.com/user-attachments/assets/2ec468e1-d838-4ecf-b53a-9724c7399de3)
+![Image](https://github.com/user-attachments/assets/1b75ada6-a4eb-42fb-b52f-729b809a6621)
+![Image](https://github.com/user-attachments/assets/7e7669cb-1495-4a02-a581-c1513fca8214)
+![Image](https://github.com/user-attachments/assets/50b4aa0e-b538-492e-9cca-67be2f47c554)
+![Image](https://github.com/user-attachments/assets/c4a88d69-6220-4797-9442-d5daf24cadd6)
+![Image](https://github.com/user-attachments/assets/24a80a81-5320-4989-ae23-60395131a4cb)
+![Image](https://github.com/user-attachments/assets/1bf6de4f-1d87-46ba-bca4-908e2b5a4dff)
+![Image](https://github.com/user-attachments/assets/aa40ef63-3438-4f2a-a4f4-9c74577f0498)
+![Image](https://github.com/user-attachments/assets/985e6182-2043-4987-a0e9-41cf39bb494d)
 
 ## 🛠 Technologies
 
