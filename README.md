@@ -7,7 +7,8 @@
 - 🧩 Diagramme de Classe  
 - 🗃️ Modèle Conceptuel de la Base  
 - ⚙️ Exécution des Tests  
-- 🛠 Technologies Utilisées  
+- 🛠 Technologies Utilisées
+- 🎥 [Voir la vidéo de présentation]
 
 ---
 
